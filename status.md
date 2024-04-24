@@ -2,15 +2,14 @@
 
 #### Your name
 
-TODO
-
+Jinhui chen
 #### Your section leader's name
 
-TODO
+jinhui chen
 
 #### Project title
 
-TODO
+Hero adventure modification
 
 ***
 
@@ -18,12 +17,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have started modifying the game files.
 
 #### What have you not done for your project yet?
 
-TODO
+Modify the amount of gold cost in the game.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None
